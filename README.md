@@ -1,6 +1,12 @@
 # Astroweight Calculator
+Ever wonder what you'd weigh on a different solar body?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Wonder no longer!
+
+Creates a calculator that switches between English Units and Metric System.  Enter weight and select solar body to automatically calucate what you'd weigh elsewhere.
+
+So, go enjoy the universe!
+
 
 ## Available Scripts
 
@@ -19,3 +25,4 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
